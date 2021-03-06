@@ -10,9 +10,7 @@
 <ul>
 <li>This mod allows use to change settings such as <code>Cycle Speed</code>, <code>Random Colour</code> and <code>Brightness</code></li>
 <li>These settings can be found in the config file at <code>BepInEx\config\RainbowKeyboard.cfg</code></li>
-<<<<<<< HEAD
 </ul>
-This is litterally a copy and paste of my last mod lol
-=======
+<p>This is litterally a copy and paste of my last mod lol</p>
 </ul>
->>>>>>> 23c20b49d02f64c77c6dfd2afac678f6a52c5e0e
+

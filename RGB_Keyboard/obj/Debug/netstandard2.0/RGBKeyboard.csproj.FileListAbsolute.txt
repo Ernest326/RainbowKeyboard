@@ -1,0 +1,17 @@
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\bin\Debug\netstandard2.0\RGBKeyboard.deps.json
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\bin\Debug\netstandard2.0\RGBKeyboard.dll
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\bin\Debug\netstandard2.0\RGBKeyboard.pdb
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\bin\Debug\netstandard2.0\BepInEx.dll
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\bin\Debug\netstandard2.0\Photon3Unity3D.dll
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\bin\Debug\netstandard2.0\PhotonRealtime.dll
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\bin\Debug\netstandard2.0\PhotonUnityNetworking.dll
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\bin\Debug\netstandard2.0\UnityEngine.dll
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\obj\Debug\netstandard2.0\RGBKeyboard.csprojAssemblyReference.cache
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\obj\Debug\netstandard2.0\RGBKeyboard.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\obj\Debug\netstandard2.0\RGBKeyboard.AssemblyInfo.cs
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\obj\Debug\netstandard2.0\RGBKeyboard.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\obj\Debug\netstandard2.0\RGBKeyboard.csproj.CopyComplete
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\obj\Debug\netstandard2.0\RGBKeyboard.dll
+F:\Visual Studio Projects\RGBKeyboard\RGB-Keyboard\RGB_Keyboard\obj\Debug\netstandard2.0\RGBKeyboard.pdb
